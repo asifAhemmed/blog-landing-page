@@ -28,4 +28,4 @@ This project demonstrates a clean layout, responsive design principles, and medi
 - **CSS3**
 - **Media Queries**
 
----
+
